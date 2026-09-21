@@ -1,0 +1,13 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 21 Sep 2026 18:53:06 +0000
+Suite: stable
+MD5Sum:
+ dcb74dcef3c3462a17d40cc6e9632b0d              548 main/binary-amd64/Packages
+SHA1:
+ 7317ba90fdcda855ebc496cf71341983b3d6789f              548 main/binary-amd64/Packages
+SHA256:
+ 6a858d91ed1ac178a7f0a9f3eb63a8ba22a78734c5151861b9e0b2025f2a47ec              548 main/binary-amd64/Packages
+SHA512:
+ 29307012d9bedba3aa4eadc5bf5ccf89e4c3cbfeb0be5ea3094cfddc6ff9f312c395f9f38cdbf486a79ee19def7b2c418599b5855874403ae1bd5c3724c073ee              548 main/binary-amd64/Packages

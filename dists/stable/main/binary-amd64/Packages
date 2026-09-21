@@ -1,0 +1,13 @@
+Package: ashura-tools
+Architecture: all
+Version: 1.0
+Maintainer: Ashura <AshuraIZZI@protonmail.com>
+Depends: openssh-client, openssh-server, fastfetch, xinput
+Filename: pool/ashura-tools_1.0_all.deb
+Size: 724
+MD5sum: aaf08d95da23ebcf7357c636e67803b8
+SHA1: a22cbfb78d1d1df6fe37545cbd45eaf0be2bd6c0
+SHA256: 3651312cfb2771b61c1c1e52ff8caa727266f019e31ce86f0b2efeb3915d1831
+SHA512: 96b5413cb3e455ba81d8aec334fffbbb904bcce1840ef84d90242d2ce0e6ae30d602ac3b122c9f1036dcd659f1139b765b54ce044f92e25361388712cbf0dd78
+Description: Ashura's tools (Personal).
+
