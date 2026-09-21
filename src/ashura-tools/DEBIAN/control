@@ -1,0 +1,6 @@
+Package: ashura-tools
+Version: 1.0
+Architecture: all
+Maintainer: Ashura <AshuraIZZI@protonmail.com>
+Depends: openssh-client, openssh-server, fastfetch, xinput
+Description: Ashura's tools (Personal).
