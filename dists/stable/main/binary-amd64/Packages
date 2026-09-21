@@ -11,3 +11,16 @@ SHA256: 3651312cfb2771b61c1c1e52ff8caa727266f019e31ce86f0b2efeb3915d1831
 SHA512: 96b5413cb3e455ba81d8aec334fffbbb904bcce1840ef84d90242d2ce0e6ae30d602ac3b122c9f1036dcd659f1139b765b54ce044f92e25361388712cbf0dd78
 Description: Ashura's tools (Personal).
 
+Package: ashura-tools
+Architecture: all
+Version: 1.1
+Maintainer: Ashura <AshuraIZZI@protonmail.com>
+Depends: openssh-client, openssh-server, fastfetch, xinput, nano, zsh
+Filename: pool/ashura-tools_1.1_all.deb
+Size: 736
+MD5sum: 6432e4d6c5fcfe0766bd219dd565706a
+SHA1: df672d2710404244055d49d1fae4773bca6ae4fc
+SHA256: eee1082175f4cc07418f07c1dc1c50f031d58a0042099d694cfe1d91eb0a26ae
+SHA512: 482c6e176ce7a96cb866c1140b4f60002e9798fdc4d967cb5ad285cbe5b750affe074dfd8bf53e63c591151fe267345b69f15c2553d5cfa6ab7208f748b90797
+Description: Ashura's tools (Personal).
+
